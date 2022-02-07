@@ -21,7 +21,3 @@ def brownian_motion(num, magnification, randomness_limit, pos):
         count += 1
 
 # brownian_motion(pi, 2, 1.5, [250, 250])
-        
-        
-    
-    
